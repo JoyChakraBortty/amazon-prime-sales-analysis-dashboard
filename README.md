@@ -1,4 +1,4 @@
-# 📊 Amazon Prime Sales Analytics Dashboard – Power BI Project
+# 📊 Amazon Prime Sales Analysis Dashboard – Power BI Project
 
 This Power BI dashboard project provides an insightful analysis of Amazon Prime Video streaming data. Designed to extract meaningful trends and performance indicators, the dashboard allows users to interact with various visual elements for in-depth business intelligence reporting. It is a valuable asset for showcasing OTT analytics, viewer engagement metrics, and strategic content performance insights.
 

@@ -59,6 +59,7 @@ The dashboard is ideal for showcasing proficiency in Power BI, data modeling, an
 
 **Joy Chakra Bortty**  
 Data Analyst | Power BI | SQL | Excel | Python | 
+
 🔗 [LinkedIn](https://www.linkedin.com/in/joy-chakra-bortty/)  
 🔗 [GitHub](https://github.com/JoyChakraBortty)
 
